@@ -1,0 +1,57 @@
+#  ----------------------------------------------------------------------
+#  searchplugin-kanotix
+#  Search Plug-In for kanotix.com, used in Mozilla, Firefox,
+#  Iceweasel and other compatible browsers
+#  Search-Plug-In for kanotix.com, used in Konqueror and Safari
+#  Copyright (C) 2006 by the Kanotix Development Team
+#  Contact: Chris Hildebrandt (slam) at webmaster@kanotix.com
+#  ----------------------------------------------------------------------
+#  LICENSE
+# 
+#  This program is free software; you can redistribute it and/or
+#  modify it under the terms of the GNU General Public License (GPL)
+#  as published by the Free Software Foundation; either version 2
+#  of the License, or (at your option) any later version.
+# 
+#  This program is distributed in the hope that it will be useful,
+#  but WIthOUT ANY WARRANTY; without even the implied warranty of
+#  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#  GNU General Public License for more details.
+# 
+#  To read the license please visit http://www.gnu.org/copyleft/gpl.html
+#  ----------------------------------------------------------------------
+#  Version 0.1.1 created: 11 October 2006
+#  - added proper copyright, license and version info (slam)
+#  - added Konqueror-Plug-In (x-un-i)
+#  Version 0.1.0 created: 11 October 2006
+#  - initial release (slam, icon by Cathbard)
+
+<SEARCH
+    version = "7.1" 
+   name="kanotix.com"
+   description="kanotix.com Search"
+   method="GET"
+   action="http://kanotix.com/index.php" 
+   queryCharset="ISO-8859-1"
+>
+
+	<input name="name" value="Search" />
+	<input name="action" value="search" />
+	<input name="bool" value="AND" />
+	<input name="overview" value="1" />
+	<input name="active_stories" value="1" />
+	<input name="stories_cat" value="" />
+	<input name="stories_topics" value="" />
+	<input name="active_faqs" value="1" />
+	<input name="active_pnphpbb2" value="1" />
+	<input name="active_reviews" value="1" />
+	<input name="active_downloads" value="1" />
+	<input name="q" id="search1" user />
+
+</search>
+
+<BROWSER
+	update="http://kanotix.com/searchplugins/kanotix.src"
+	updateIcon="http://kanotix.com/searchplugins/updates/kanotix.png"
+	updateCheckDays="3"
+	>
