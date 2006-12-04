@@ -1,10 +1,10 @@
 #  ----------------------------------------------------------------------
-#  searchplugins-kanotix
-#  Search Plug-In for kanotix.com, used in Mozilla, Firefox,
+#  searchplugins-sidux
+#  Search Plug-In for sidux.com, used in Mozilla, Firefox,
 #  Iceweasel and other compatible browsers
-#  Search-Plug-In for kanotix.com, used in Konqueror and Safari
-#  Copyright (C) 2006 by the Kanotix Development Team
-#  Contact: Chris Hildebrandt (slam) at webmaster@kanotix.com
+#  Search-Plug-In for sidux.com, used in Konqueror and Safari
+#  Copyright (C) 2006 by the sidux Development Team
+#  Contact: Chris Hildebrandt (slam) at webmaster@sidux.com
 #  ----------------------------------------------------------------------
 #  LICENSE
 # 
@@ -31,9 +31,9 @@ Search-Plugin for Firefox
 
 Download the file
 
-wget -O ~/.mozilla/firefox/*.default/searchplugins/kanotix.xml http://kanotix.com/searchplugins/kanotix.xml
+wget -O ~/.mozilla/firefox/*.default/searchplugins/sidux.xml http://sidux.com/searchplugins/sidux.xml
 
-Restart Firefox and select Kanotix from the search pull-down menu. After first selection it will become default.
+Restart Firefox and select sidux from the search pull-down menu. After first selection it will become default.
 
 This should work also for other Gecko-Browsers.
 
@@ -44,16 +44,16 @@ Search-Plugin for Konqueror
 
 Download the file
 
-mkdir -p ~/.kde/share/services/searchproviders && wget -O ~/.kde/share/services/searchproviders/kan.desktop http://kanotix.com/searchplugins/kan.desktop
+mkdir -p ~/.kde/share/services/searchproviders && wget -O ~/.kde/share/services/searchproviders/kan.desktop http://sidux.com/searchplugins/sid.desktop
 
-Go to Control Center -> Internet & Network -> Web Browser -> Web Shortcuts and activate the "kan" shortcut.
+Go to Control Center -> Internet & Network -> Web Browser -> Web Shortcuts and activate the "sid" shortcut.
 
-Now open Konqueror, click the Google Icon and select the Kanotix engine. After that you can always select it from the pull-down menu. After first selection it will become default.
+Now open Konqueror, click the Google Icon and select the sidux engine. After that you can always select it from the pull-down menu. After first selection it will become default.
 
 
 Additional usage in Konqueror:
 
-Simply write the url kan:keyword in the address bar and press enter.
+Simply write the url sid:keyword in the address bar and press enter.
 
 
 That's it. Have Fun!

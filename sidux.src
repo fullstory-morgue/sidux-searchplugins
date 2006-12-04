@@ -1,10 +1,10 @@
 #  ----------------------------------------------------------------------
-#  searchplugin-kanotix
-#  Search Plug-In for kanotix.com, used in Mozilla, Firefox,
+#  searchplugin-sidux
+#  Search Plug-In for sidux.com, used in Mozilla, Firefox,
 #  Iceweasel and other compatible browsers
-#  Search-Plug-In for kanotix.com, used in Konqueror and Safari
+#  Search-Plug-In for siduxx.com, used in Konqueror and Safari
 #  Copyright (C) 2006 by the Kanotix Development Team
-#  Contact: Chris Hildebrandt (slam) at webmaster@kanotix.com
+#  Contact: Chris Hildebrandt (slam) at webmaster@sidux.com
 #  ----------------------------------------------------------------------
 #  LICENSE
 # 
@@ -28,10 +28,10 @@
 
 <SEARCH
     version = "7.1" 
-   name="kanotix.com"
-   description="kanotix.com Search"
+   name="sidux.com"
+   description="sidux.com Search"
    method="GET"
-   action="http://kanotix.com/index.php" 
+   action="http://sidux.com/index.php" 
    queryCharset="ISO-8859-1"
 >
 
@@ -51,7 +51,7 @@
 </search>
 
 <BROWSER
-	update="http://kanotix.com/searchplugins/kanotix.src"
-	updateIcon="http://kanotix.com/searchplugins/updates/kanotix.png"
+	update="http://sidux.com/searchplugins/sidux.src"
+	updateIcon="http://sidux.com/searchplugins/updates/sidux.png"
 	updateCheckDays="3"
 	>

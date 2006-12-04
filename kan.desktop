@@ -1,7 +1,0 @@
-[Desktop Entry]
-Encoding=UTF-8
-Type=Service
-Name=Kanotix
-ServiceTypes=SearchProvider
-Keys=kan,kanotix
-Query=http://kanotix.com/index.php?name=Search&action=search&bool=AND&overview=1&active_stories=1&active_faqs=1&active_pnphpbb2=1&active_reviews=1&active_downloads=1&q=\\{@}
