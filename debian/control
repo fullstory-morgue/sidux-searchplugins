@@ -1,0 +1,16 @@
+Source: sidux-searchplugins
+Section: graphics
+Priority: optional
+Maintainer: Kel Modderman <kelmo@siduxguide.org>
+Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>
+Build-Depends: cdbs, debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: sidux-searchplugins
+Architecture: all
+Recommends: iceweasel, konqueror
+Description: sidux search plugins for popular web browsers
+ Search Plug-In for sidux.com, used in Iceweasel  and other compatible
+ browsers.
+ .
+ This package also provides a searchprodviders Plug-In for konqueror.
