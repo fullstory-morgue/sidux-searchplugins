@@ -1,8 +1,8 @@
-sidux-searchplugins (0.1.6) UNRELEASED; urgency=low
+sidux-searchplugins (0.1.6) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * update to debhelper compat 6.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 09 Dec 2007 00:03:21 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 19 Jan 2008 02:42:15 +0100
 
 sidux-searchplugins (0.1.5) unstable; urgency=low
 

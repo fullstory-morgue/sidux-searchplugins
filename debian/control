@@ -3,7 +3,7 @@ Section: graphics
 Priority: optional
 Maintainer: Kel Modderman <kelmo@siduxguide.org>
 Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>
-Build-Depends: cdbs, debhelper (>= 5)
+Build-Depends: cdbs, debhelper (>= 6)
 Standards-Version: 3.7.3
 Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-searchplugins/trunk
 Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-searchplugins/trunk/
