@@ -3,12 +3,9 @@ Fri, 13 Oct 2006 21:43:56 +1000.
 
 It was downloaded from http://sidux.com/
 
-Upstream Author:
-	Chris Hildebrandt (slam) at webmaster@sidux.com
-
 Copyright: 
-	Copyright (C) 2006 by the sidux development team
-	Copyright 2006, Steven Robinson <stevenjrobinson@yahoo.com>
+	Copyright © 2006 Chris Hildebrandt (slam) <webmaster@sidux.com>
+	Copyright © 2006, Steven Robinson <stevenjrobinson@yahoo.com>
 
 License:
 
@@ -29,5 +26,5 @@ License:
 On Debian systems, the complete text of the GNU General
 Public License can be found in `/usr/share/common-licenses/GPL'.
 
-The Debian packaging is (C) 2006, Kel Modderman <kelmo@siduxguide.org> and
+The Debian packaging is © 2006, Kel Modderman <kelmo@siduxguide.org> and
 is licensed under the GPL, see above.

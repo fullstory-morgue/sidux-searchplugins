@@ -1,8 +1,8 @@
-sidux-searchplugins (0.1.7) UNRELEASED; urgency=low
+sidux-searchplugins (0.1.7) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * appease lintian and write (C) as © in debian/copyright.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 19 Jan 2008 02:43:15 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 21 Feb 2008 01:21:41 +0100
 
 sidux-searchplugins (0.1.6) unstable; urgency=low
 
