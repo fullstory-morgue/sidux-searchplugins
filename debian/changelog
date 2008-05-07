@@ -1,8 +1,8 @@
-sidux-searchplugins (0.1.8) UNRELEASED; urgency=low
+sidux-searchplugins (0.1.8) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * switch to the new dh implementation of debhelper 7.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 21 Feb 2008 01:23:45 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 07 May 2008 02:28:49 +0200
 
 sidux-searchplugins (0.1.7) unstable; urgency=low
 
