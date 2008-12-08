@@ -1,9 +1,8 @@
-sidux-searchplugins (0.1.10) UNRELEASED; urgency=low
+sidux-searchplugins (0.1.10) unstable; urgency=low
 
-  * NOT RELEASED YET
   * make lintian happy and depend on ${misc:Depends}.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Dec 2008 03:05:31 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Dec 2008 23:54:24 +0100
 
 sidux-searchplugins (0.1.9) unstable; urgency=low
 
