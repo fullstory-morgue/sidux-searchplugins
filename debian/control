@@ -10,7 +10,8 @@ Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-searchplugins/trunk/
 
 Package: sidux-searchplugins
 Architecture: all
-Recommends: iceweasel, konqueror
+Depends: ${misc:Depends}
+Suggests: iceweasel | konqueror
 Description: sidux search plugins for popular web browsers
  Search Plug-In for sidux.com, used in Iceweasel  and other compatible
  browsers.
