@@ -1,3 +1,9 @@
+sidux-searchplugins (0.1.12) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 20 Feb 2009 18:11:21 +0100
+
 sidux-searchplugins (0.1.11) unstable; urgency=low
 
   * fix desktop-entry-contains-encoding-key.
