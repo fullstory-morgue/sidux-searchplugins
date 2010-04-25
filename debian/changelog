@@ -1,8 +1,9 @@
-sidux-searchplugins (0.1.12) UNRELEASED; urgency=low
+sidux-searchplugins (0.1.12) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * switch to dpkg-source 3.0 (native) format.
+  * bump standards version to 3.8.4, no changes necessary.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 20 Feb 2009 18:11:21 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 26 Apr 2010 01:22:54 +0200
 
 sidux-searchplugins (0.1.11) unstable; urgency=low
 
