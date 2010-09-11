@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Kel Modderman <kelmo@siduxguide.org>
 Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>
 Build-Depends: debhelper (>= 7)
-Standards-Version: 3.8.4
+Standards-Version: 3.9.1
 Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-searchplugins/trunk
 Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-searchplugins/trunk/
 
@@ -16,4 +16,4 @@ Description: sidux search plugins for popular web browsers
  Search Plug-In for sidux.com, used in Iceweasel  and other compatible
  browsers.
  .
- This package also provides a searchprodviders Plug-In for konqueror.
+ This package also offers a searchprovider Plug-In for konqueror.
